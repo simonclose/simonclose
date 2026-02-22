@@ -14,8 +14,8 @@ My goal is to earn my bachelors degree in Computer Science and start a career in
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/simonclose/Detection-Lab/tree/main">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/simonclose/Detection-Lab/tree/main">Detection Lab</a>|
 
 ## Tools
 ### Virtual Machines
@@ -39,5 +39,5 @@ My goal is to earn my bachelors degree in Computer Science and start a career in
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/simonclose/Detection-Lab/tree/main">Detection Lab</a>
 
