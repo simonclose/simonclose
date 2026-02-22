@@ -24,14 +24,14 @@ My goal is to earn my bachelors degree in Computer Science and start a career in
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://www.credly.com/badges/e0b9c638-9c2c-4730-9c52-09775894d68a/public_url"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <a href="https://www.credly.com/badges/e0b9c638-9c2c-4730-9c52-09775894d68a/public_url"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 
